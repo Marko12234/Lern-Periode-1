@@ -20,6 +20,6 @@
 
 - [ ] Handlungsziel 1 erledigen modul 341
 - [ ] modul 319 alle aufgaben 3.3-4.2 fertig machen
-- [ ] 3 Moodle tests im Modul mit maximaler Anzahl punkte machen im Modul 341 
+- [ ] handlungsziel 2 die ersten 3 aufgaben machen modul 341
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.

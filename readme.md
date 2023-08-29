@@ -18,7 +18,7 @@
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
 
-- [ ] Handlungsziel 1 erledigen modul 341
+- [ ] Modul 319 Aufgabe  Variabeln, Konstanten und Aufgabe Operatoren fertig machen
 - [ ] modul 319 alle aufgaben 3.3-4.2 fertig machen
 - [ ] handlungsziel 2 die ersten 3 aufgaben machen modul 341
 

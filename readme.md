@@ -29,8 +29,17 @@ Das zweite Arbeitspaket hat mehr Zeit gebraucht als gedacht, da ich bei einer Au
 Beim dritten Arbeitspaket habe ich schlecht geplant, ich hätte genauer spezifizieren sollen was ich genau machen sollte (welche Aufgaben es genau sind, ich habe nur die Lernziele angegeben), ich habe damals auch nicht gewusst was ich im Modul 319 machen sollte, da wir nicht weit waren.
 Beim vierten Arbeitspaket habe ich etwas aus einem früheren Handlungsziel gemacht, und nur mit Handlungsziel 2 angefangen. (100)
 
-## Arbeitspakete für 5.06.2023
+## Arbeitspakete für 5.09.2023
 - [ ] Modul 319 bearbeiten (alle Aufgaben aus dem Unterricht und Hausaufgaben fertig machen so weit wie möglich in 45 min)
 - [ ] Modul 319 2 ePortfolios machen zu bereits erworbenen Kompetenzen
 - [ ] Modul 341 eine Aufgabe aus Handlungsziel 2 machen
 - [ ] mit C# ein Number-guessing game programmieren, man soll es neustarten können und es soll sagen ob man zu hoch oder zu tief ist
+
+## Zusammenfassung 5.09.2023
+Ich habe nur ein Number-guessing game programmiert, weil ich es schwierig fande, verschachtelte if-statements zu verstehen, die ich in dem Programm benutzten musste. Ich habe es nicht geschafft, es neustarten zu lassen, weil ich die Zeit für die Hausaufgaben verwenden wollte. Ich sollte kleinere Ziele machen, oder ein grosses Ziel in 2 kleine aufteilen, damit ich besser planen kann was ich mache. Ich sollte vlt nach den Informatikstunden mir aufschreiben was für Hausaufgaben ich im Lernatelier erledigen kann, weil ich sonst mir keine Hausaufgaben konkret einplanen kann. (87)
+
+## Arbeitspakete für 12.09.2023
+- [ ] c# number guessing game neustart hinzufügen
+- [ ] hausaufgabe 1 (noch nicht geplant)
+- [ ] hausaufgabe 2 (noch nicht geplant)
+- [ ] c# primzahlen finder (es soll alle primzahlen von 1-100 finden können) (vlt nicht möglich mit jetztigen wissen)

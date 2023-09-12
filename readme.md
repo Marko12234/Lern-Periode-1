@@ -43,3 +43,17 @@ Ich habe nur ein Number-guessing game programmiert, weil ich es schwierig fande,
 - [ ] hausaufgabe 1 (noch nicht geplant)
 - [ ] hausaufgabe 2 (noch nicht geplant)
 - [ ] c# primzahlen finder (es soll alle primzahlen von 1-100 finden können) (vlt nicht möglich mit jetztigen wissen)
+## zusammenfassung 12.09.2023
+Ich habe nur die Hausaufgaben gemacht, da ich sonst in Informatik mit den Aufträgen zurückfalle. Ich arbeite weniger als ich denke. Ich sollte schneller arbeiten und gegebenfalls weniger lange Pausen machen. Ich sollte beim programmieren öfters den Code ausprobieren und weniger oft viele Sachen auf einmal ändern damit ich weniger Fehler mache.
+## Arbeitspaket für 19.09.2023
+ - [] hausaufgabe 1
+ - [] hausaufgabe 2
+ - [] c# number guessing game neustartmöglichkeit hinzügen wenn man die Zahl richtig geraten hat.
+ - [] c# primzahlen finder machen (1-100)
+
+# Testfälle
+1. Wenn abgegeben/moodle test gemacht
+2. Wenn abgegeben/moodle test gemacht
+3. wenn man, nachdem man die zahl richtig geraten hat, nicht das programm neustarten muss um es wieder zu spielen, man soll etwas in die konsole eingeben um nochmal zu spielen
+4. wenn alle primzahlen von 1-100 aufgelistet werden wenn man das programm startet
+5. 

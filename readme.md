@@ -47,8 +47,8 @@ Ich habe nur ein Number-guessing game programmiert, weil ich es schwierig fande,
 Ich habe nur die Hausaufgaben gemacht, da ich sonst in Informatik mit den Aufträgen zurückfalle. Ich arbeite weniger als ich denke. Ich sollte schneller arbeiten und gegebenfalls weniger lange Pausen machen. Ich sollte beim programmieren öfters den Code ausprobieren und weniger oft viele Sachen auf einmal ändern damit ich weniger Fehler mache.
 ## Arbeitspaket für 19.09.2023
  - [] modul 431 lz 2.4 lösen
- - [] modul 431 lz 2.5 lösen
- - [] modul 431 lz 2.7 lösen
+ - [x] modul 431 lz 2.5 lösen
+ - [x] modul 431 lz 2.7 lösen
  - []modul 431 lz 2.9 lösen
 
 # Testfälle
@@ -57,3 +57,16 @@ Ich habe nur die Hausaufgaben gemacht, da ich sonst in Informatik mit den Auftr�
 3.  wenn alle kriterien im auftrag erfüllt sind
 4.  wenn alle kriterien im auftrag erfüllt sind
 5. auftröge 1-4 sind fertig wenn sie auf moodle abgegeben sind
+
+## zusammenfassung 19.09.2023
+Arbeitspaket zwei und drei habe ich ohne Probleme gelöst, bei Arbeitspaket 1 habe ich viel Zeit gebraucht nachzudenken warum eine Zeile ohne Inhalt gefärbt wurde obwohl ich nichts in dieser zeile bei bedingt-formatieren eingeben habe. Ich habe als Abwechslung in einer Pause ein Moodle Test gemacht. Ich arbeite besser wenn ich vor dem Lernatelier die Aufgaben konkret plane.
+
+## Arbeitspakete für 26.09.23
+- [] M431 an auftrag 1726 arbeiten (teil MiZ)
+- [] M431 an auftrag 1726 arbeiten (teil ExZ)
+- [] M431 an Auftrag 1732 arbeiten
+
+## Testfälle
+1. und 2. Wenn der Auftrag abgegeben ist und alle Anforderungen erfüllt.
+2. Wenn der Auftrag alle Anforderungen erfüllt und abgegeben ist.
+

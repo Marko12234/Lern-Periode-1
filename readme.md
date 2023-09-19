@@ -46,14 +46,14 @@ Ich habe nur ein Number-guessing game programmiert, weil ich es schwierig fande,
 ## zusammenfassung 12.09.2023
 Ich habe nur die Hausaufgaben gemacht, da ich sonst in Informatik mit den Aufträgen zurückfalle. Ich arbeite weniger als ich denke. Ich sollte schneller arbeiten und gegebenfalls weniger lange Pausen machen. Ich sollte beim programmieren öfters den Code ausprobieren und weniger oft viele Sachen auf einmal ändern damit ich weniger Fehler mache.
 ## Arbeitspaket für 19.09.2023
- - [] hausaufgabe 1
- - [] hausaufgabe 2
- - [] c# number guessing game neustartmöglichkeit hinzügen wenn man die Zahl richtig geraten hat.
- - [] c# primzahlen finder machen (1-100)
+ - [] modul 431 lz 2.4 lösen
+ - [] modul 431 lz 2.5 lösen
+ - [] modul 431 lz 2.7 lösen
+ - []modul 431 lz 2.9 lösen
 
 # Testfälle
-1. Wenn abgegeben/moodle test gemacht
-2. Wenn abgegeben/moodle test gemacht
-3. wenn man, nachdem man die zahl richtig geraten hat, nicht das programm neustarten muss um es wieder zu spielen, man soll etwas in die konsole eingeben um nochmal zu spielen
-4. wenn alle primzahlen von 1-100 aufgelistet werden wenn man das programm startet
+1. WEnn alle kriterien im auftrag erfüllt sind
+2. wenn alle kriterien im auftrag erfüllt sind
+3.  wenn alle kriterien im auftrag erfüllt sind
+4.  wenn alle kriterien im auftrag erfüllt sind
 5. 

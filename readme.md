@@ -56,4 +56,4 @@ Ich habe nur die Hausaufgaben gemacht, da ich sonst in Informatik mit den Auftr�
 2. wenn alle kriterien im auftrag erfüllt sind
 3.  wenn alle kriterien im auftrag erfüllt sind
 4.  wenn alle kriterien im auftrag erfüllt sind
-5. 
+5. auftröge 1-4 sind fertig wenn sie auf moodle abgegeben sind

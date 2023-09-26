@@ -62,11 +62,10 @@ Ich habe nur die Hausaufgaben gemacht, da ich sonst in Informatik mit den Auftr�
 Arbeitspaket zwei und drei habe ich ohne Probleme gelöst, bei Arbeitspaket 1 habe ich viel Zeit gebraucht nachzudenken warum eine Zeile ohne Inhalt gefärbt wurde obwohl ich nichts in dieser zeile bei bedingt-formatieren eingeben habe. Ich habe als Abwechslung in einer Pause ein Moodle Test gemacht. Ich arbeite besser wenn ich vor dem Lernatelier die Aufgaben konkret plane.
 
 ## Arbeitspakete für 26.09.23
-- [] M431 an auftrag 1726 arbeiten (teil MiZ)
-- [] M431 an auftrag 1726 arbeiten (teil ExZ)
-- [] M431 an Auftrag 1732 arbeiten
+- [] M431 lz 2.4 fertigstellen
+- [] M431 lz 2.9 fertigstellen
+- [] M431 Auftrag 1718 fertigstellen
 
 ## Testfälle
-1. und 2. Wenn der Auftrag abgegeben ist und alle Anforderungen erfüllt.
-2. Wenn der Auftrag alle Anforderungen erfüllt und abgegeben ist.
+1.-3. Wenn der Auftrag abgegeben ist und alle Anforderungen erfüllt.
 

@@ -72,6 +72,6 @@ Arbeitspaket zwei und drei habe ich ohne Probleme gelöst, bei Arbeitspaket 1 ha
 Ich habe gar kein Arbeitspaket fertiggestellt, weil ich sehr viel Zeit fürs erste Arbeitspaket aufgewendet habe da ich immer noch beim Problem vom letzten Mal bin und deswegen viel recherchieren mussste.
 
 ## Reflexion
-Ich finde, dass ich meine Planung verbessern kann, z.B. soll ich genau angeben welche Aufgaben ich mache und kleinere Arbeitspakete machen. Ich plane zu grosse Arbeitspakete und kann deswegen häufig nicht nach alle zu erfüllen. Ich habe mir am Anfang zu wenig Prioriäten gesetz und deswegen bin ich langsam gewesen meine Programmierfähigkeiten zu verbessern.
+Ich finde, dass ich meine Planung verbessern kann, z.B. soll ich genau angeben welche Aufgaben ich mache und kleinere Arbeitspakete machen. Ich plane zu grosse Arbeitspakete und kann deswegen häufig nicht nach alle zu erfüllen. Ich habe mir am Anfang zu wenig Prioriäten gesetz und deswegen bin ich langsam gewesen meine Programmierfähigkeiten zu verbessern. Ich finde, dass ich weiter komme, wenn ich an einem anderen Arbeitspaket arbeite, wenn ich bei einem sehr lange nicht weiter komme und später wieder auf die Aufgabe zurückkomme. Meine Vermutung ist, dass Abstand zur Aufgabe hilft und dass ich produktiver bin wenn ich die Aufgabe für eine Zeit auslasse weil ich meine Zeit besser nutze.
 
-Verbesserungsvorschlag: kleinere und genauere Arbeitspakete machen, mehr nachdenken was am meisten helfen würde zu erledigen, öfters Prioritäten setzten
+Verbesserungsvorschlag: kleinere und genauere Arbeitspakete machen, mehr nachdenken was am meisten helfen würde zu erledigen, öfters Prioritäten setzten, nicht an einer Aufgabe höngen bleibe

@@ -68,4 +68,10 @@ Arbeitspaket zwei und drei habe ich ohne Probleme gelöst, bei Arbeitspaket 1 ha
 
 ## Testfälle
 1.-3. Wenn der Auftrag abgegeben ist und alle Anforderungen erfüllt.
+## Zusammenfassung 26.06.2023
+Ich habe gar kein Arbeitspaket fertiggestellt, weil ich sehr viel Zeit fürs erste Arbeitspaket aufgewendet habe da ich immer noch beim Problem vom letzten Mal bin und deswegen viel recherchieren mussste.
 
+## Reflexion
+Ich finde, dass ich meine Planung verbessern kann, z.B. soll ich genau angeben welche Aufgaben ich mache und kleinere Arbeitspakete machen. Ich plane zu grosse Arbeitspakete und kann deswegen häufig nicht nach alle zu erfüllen. Ich habe mir am Anfang zu wenig Prioriäten gesetz und deswegen bin ich langsam gewesen meine Programmierfähigkeiten zu verbessern.
+
+Verbesserungsvorschlag: kleinere und genauere Arbeitspakete machen, mehr nachdenken was am meisten helfen würde zu erledigen, öfters Prioritäten setzten
